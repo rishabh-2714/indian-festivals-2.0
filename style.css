@@ -1,0 +1,14 @@
+table,
+th,
+td {
+    border-color: black;
+    border-style: double;
+    border-radius: 5px;
+    border-width: 2px;
+    padding: 2px;
+}
+table {
+    width: 30vw;
+    margin-right: 35vw;
+    margin-left: 35vw;
+}
